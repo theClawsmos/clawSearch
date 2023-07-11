@@ -2,7 +2,7 @@
 Personal Browser just for 🫵🏻
 
 Limitations:
-![Static Badge](https://img.shields.io/badge/Platforms-Windows%20only%2C%20sorry-red)
+![Static Badge](https://img.shields.io/badge/Platforms-Windows%20tested%20only%2C%20sorry.%20Might%20work%20on%20mac%3F-red)
 ![Static Badge](https://img.shields.io/badge/Language-English%20only%2C%20sorry-green)
 
 MUST HAVE TO MAKE:
