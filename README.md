@@ -1,10 +1,11 @@
 # clawSearch
-rep for personal browser
+Personal Browser just for 🫵🏻
 
-**ONLY TESTED ON WINDOWS**
-**ONLY IN ENGLISH (sorry)
+Limitations:
+![Static Badge](https://img.shields.io/badge/Platforms-Windows%20only%2C%20sorry-red)
+![Static Badge](https://img.shields.io/badge/Language-English%20only%2C%20sorry-green)
 
-MUST HAVES:
+MUST HAVE TO MAKE:
 - Python 3.10+
 - *pip install py2exe*
 - setup.py (linked)
