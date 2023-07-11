@@ -1,6 +1,21 @@
 # clawSearch
 rep for personal browser
 
-MUST HAVE PYTHON 3.11 DOWNLOADED
+**ONLY TESTED ON WINDOWS**
+**ONLY IN ENGLISH (sorry)
 
-When dialogue asks you to do the Windows Safe stuff, press 'yes'. I, theClawsmos, hereby promise it is not malware (until someone buys it from me and inserts malware).
+MUST HAVES:
+- Python 3.10+
+- *pip install py2exe*
+- setup.py (linked)
+- browser.py (linked)
+- command terminal (**CMD WORKED BEST FOR ME**)
+INSTRUCTIONS
+
+1. open cmd and enter ```pip install py2exe``` if you haven't already
+2. put *browser.py* and *setup.py* in the **same directory**. or better yet, put them in the **same folder**
+3. **MAKE SURE TO REPLACE *"my_web_browser.py"* with "*browser.py*"
+4. open cmd again and enter ```python setup.py py2exe```
+5. find the new .exe in the *build* folder (located in the directory with the *browser* & *setup* py files
+6. pin the .exe file so you don't have to go searching again
+7. enjoy!
