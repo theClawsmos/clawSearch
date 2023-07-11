@@ -18,5 +18,5 @@ INSTRUCTIONS
 3. **MAKE SURE TO REPLACE *"my_web_browser.py"* with "*browser.py*"
 4. open cmd again and enter ```python setup.py py2exe```
 5. find the new .exe in the *build* folder (located in the directory with the *browser* & *setup* py files
-6. pin the .exe file so you don't have to go searching again
+6. pin the .exe file to taskbar so you don't have to go searching again
 7. enjoy!
