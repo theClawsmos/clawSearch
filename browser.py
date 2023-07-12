@@ -1,3 +1,5 @@
+# You can only search with the google bar BTW
+
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtWebEngineWidgets import *
@@ -84,3 +86,26 @@ app = QApplication([])
 window = MyWebBrowser()
 window.show()
 app.exec()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#If you scroll down this far... Well done. 🎉🎉🎉
