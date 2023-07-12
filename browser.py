@@ -8,7 +8,7 @@ from PyQt5.QtWebEngineWidgets import *
 class MyWebBrowser(QMainWindow):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.setWindowTitle("clawSearch")
+        self.setWindowTitle("theClawsmos Search")
         self.setCentralWidget(QWidget(self))
 
         layout = QVBoxLayout(self.centralWidget())
