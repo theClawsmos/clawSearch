@@ -20,7 +20,7 @@ options = {
 setup(
     name="clawSearch",
     version="1.0",
-    description="Personal Web Browser",
+    description="Special Browser for You",
     options=options,
     executables=executables
 )
